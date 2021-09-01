@@ -82,7 +82,8 @@ username = userExists(username)
 if (username == False):
 	exit()
 else:
-	username = username['username']
+	username = username['chuppi______gowda
+']
 
 
 
